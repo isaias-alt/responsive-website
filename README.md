@@ -1,7 +1,7 @@
 # INTRODUCTION
 Responsive website complete with CSS and vanilla JavaScript.
 
-You can see the website [here](https://responsive-website-practice.vercel.app/ "here")
+You can see the website [here](https://responsive-website-practice.vercel.app/ "here").
 
 This website is inspired by [Panic Studio](https://www.panicstudio.tv/ "Panic Studio").
 
